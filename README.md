@@ -46,3 +46,4 @@ soundness-cli export-key --name my-key
 ```
 **save your 24 worded passphrase and import in your phatom wallet to position your for soundness testnet**
 DONE 
+👍 
